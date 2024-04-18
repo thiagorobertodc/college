@@ -1,8 +1,8 @@
-//Implementação das funções
+//Implementaï¿½ï¿½o das funï¿½ï¿½es
 #include <stdio.h>
 #include<stdlib.h>
 #include <math.h>
-#include "Huffman.h"
+#include "huffman.h"
 void BuscaMenores(ArvoreHuffman *vet_nos[], float *MIN, PTipoInt MenorTam, float *Segundo_Menor, PTipoInt Seg_Tam_Maior){
     int i, k;
     k = 0;
